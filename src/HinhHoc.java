@@ -4,7 +4,7 @@ public abstract class HinhHoc {
 	public HinhHoc() {
 		// TODO Auto-generated constructor stub
 		//abc
-		//123
+		//123123
 	}
 	
 	public abstract double tinhDienTich();
