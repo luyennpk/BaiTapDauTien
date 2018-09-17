@@ -2,7 +2,9 @@
 
 public abstract class HinhHoc {
 
+
 	public abstract void disp();
+
 	
 	public abstract void tinhDienTich();
 
